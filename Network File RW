@@ -1,8 +1,4 @@
 #!/usr/bin/env python3
-#networkFileRWsol.py
-#Akeem Adell
-#Thursday, March 3, 2022
-#Thursday, March 10, 2022 updated
 #Update routers and switches;
 #read equipment from a file, write updates & errors to file
 ##---->>>> Use a try/except clause to import the JSON module
